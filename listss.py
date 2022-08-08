@@ -4,5 +4,9 @@ colors = ['red','blue','white']
 
 colors.append("red")
 colors.insert(1,"violet")
-
+9
 print(colors)
+print(dir(colors))
+
+
+
